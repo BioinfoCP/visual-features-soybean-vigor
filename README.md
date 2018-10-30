@@ -21,13 +21,13 @@ Classes in First Acquisition
 
 Classes in Second Acquisition
 
-| Classes | Description                                     | Samples |
-|---------|-------------------------------------------------|---------|
-| 0PE     | External portion w/o damage (perfect)           | 306     |
-| 0PI     | Internal portion w/o damage (perfect)           | 374     |
-| 3ME     | External portion w/ mechanical damage - level 3 | 4       |
-| 3MI     | Internal portion w/ mechanical damage - level 3 | 5       |
-| 3BE     | External portion w/ bug damage - level 3        | 18      |
-| 3BI     | Internal portion w/ bug damage - level 3        | 17      |
-| 3HI     | Internal portion w/ humidity damage - level 3   | 9       |
+| N | Classes | Description                                     | Samples |
+|---|---------|-------------------------------------------------|---------|
+| 1 | 0PE     | External portion w/o damage (perfect)           | 306     |
+| 2 | 0PI     | Internal portion w/o damage (perfect)           | 374     |
+| 3 | 3ME     | External portion w/ mechanical damage - level 3 | 4       |
+| 4 | 3MI     | Internal portion w/ mechanical damage - level 3 | 5       |
+| 5 | 3BE     | External portion w/ bug damage - level 3        | 18      |
+| 6 | 3BI     | Internal portion w/ bug damage - level 3        | 17      |
+| 7 | 3HI     | Internal portion w/ humidity damage - level 3   | 9       |
 
